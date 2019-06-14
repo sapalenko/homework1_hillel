@@ -1,0 +1,42 @@
+body {
+	background: #ffffff;
+	font-family: Georgia, serif;
+	margin: 0;
+}
+
+.page-wrapper {
+	max-width: 960px;
+	margin: 0 auto;
+	background: #ffffff;
+}
+h1 {
+	font-size: 58px;
+}
+
+p {
+	font-size: 25px;
+}
+
+table {
+  border-collapse: collapse
+}
+
+th {
+ 	padding: 10px;
+ 	border: 1px solid black;
+ 	text-align: left;
+}
+
+td {
+	border: 1px solid black;
+    padding: 41px 50px 38px 45px;
+    text-align: center;
+}
+
+td img {
+	width: 190px;
+	height: 110px;
+}
+ ul {
+ 	list-style-type:disc;
+ }
